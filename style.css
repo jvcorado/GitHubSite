@@ -23,7 +23,7 @@ img{
     margin: 20px;
 }
 .container{
-    max-width: 375px;
+    max-width: 500px;
     background-color: var(--bg);
     text-align: center;
     padding: 20px;
@@ -98,7 +98,7 @@ img{
     cursor: pointer;
 }
 .create{
-    max-width: 375px;
+    max-width: 500px;
     background-color: var(--bg);
     text-align: center;
     margin-top: 10px;
